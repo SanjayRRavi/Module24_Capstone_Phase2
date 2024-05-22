@@ -45,8 +45,13 @@ The summary of results are:
 
 #### Outline of project
 
-- Link to Jupyter Notebook: (intermediate results with Decision Tree and Logistic Regression)
-https://github.com/SanjayRRavi/Module20_Capstone_Phase1/blob/main/Capstone_Phase1.ipynb
+- Link to Jupyter Notebook 1: (Main notebook with Decision Tree, Logistic Regression, and comparison of all 3 models)
+[https://github.com/SanjayRRavi/Module24_Capstone_Phase2/blob/main/Capstone_Phase2.ipynb]
+
+- Link to Jupyter Notebook 2: (Secondary notebook with neural network model done in Google Colab)
+  
+
+- Link to Jupyter Notebook 3:
 
 
 #### Contact and Further Information
