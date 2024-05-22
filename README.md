@@ -51,11 +51,13 @@ The summary of results are:
 - Link to Jupyter Notebook 2: (Capstone_Phase2_NN.ipynb: Secondary notebook with neural network model done in Google Colab)
 [https://github.com/SanjayRRavi/Module24_Capstone_Phase2/blob/main/Capstone_Phase2_NN.ipynb]
   
-
 - Link to Jupyter Notebook 3: (anomaly_predict_joblib.ipynb: Pointer on how to run the streamlit app)
 [https://github.com/SanjayRRavi/Module24_Capstone_Phase2/blob/main/anomaly_predict_joblib.ipynb]
 
 - Python source code for streamlit app: (streamlit_app.py: Jupyter Notebook 3 above shows how to run this to open up the app browser)
+[https://github.com/SanjayRRavi/Module24_Capstone_Phase2/blob/main/streamlit_app.py]
+
+- ML model saved as joblib file (lgr_model.sr: This gets loaded in both streamlit_app.py and anomaly_predict_joblib.ipynb)
 
 
 
