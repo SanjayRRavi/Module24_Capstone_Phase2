@@ -58,7 +58,7 @@ The summary of results are:
 [https://github.com/SanjayRRavi/Module24_Capstone_Phase2/blob/main/streamlit_app.py]
 
 - ML model saved as joblib file (lgr_model.sr: This gets loaded in both streamlit_app.py and anomaly_predict_joblib.ipynb)
-
+[https://github.com/SanjayRRavi/Module24_Capstone_Phase2/blob/main/lgr_model.sr]
 
 
 
