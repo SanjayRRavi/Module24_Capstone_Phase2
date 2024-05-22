@@ -49,9 +49,11 @@ The summary of results are:
 [https://github.com/SanjayRRavi/Module24_Capstone_Phase2/blob/main/Capstone_Phase2.ipynb]
 
 - Link to Jupyter Notebook 2: (Secondary notebook with neural network model done in Google Colab)
+[https://github.com/SanjayRRavi/Module24_Capstone_Phase2/blob/main/Capstone_Phase2_NN.ipynb]
   
 
-- Link to Jupyter Notebook 3:
+- Link to Jupyter Notebook 3: (Pointer on how to run the streamlit app)
+
 
 
 #### Contact and Further Information
