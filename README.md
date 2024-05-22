@@ -41,18 +41,22 @@ The summary of results are:
 #### Next steps
 * Important for the system validation user to check for the words or tokens corresponding to the above token IDs within the original logfile in order to debug the source of the anomalies or bugs.
 * Also important for the system validation user to refine the model by retraining with additional data on a periodic basis (once every few weeks, months, etc.). New sequences not in the current model that lead to bugs could come up in the future.
-* User to try a prediction by entering a sequence of token IDs on the streamlit website.  The ML model runs on this website, and it will provide a prediction of either normal or anomaly.  One of the Jupyter notebooks below will provide a pointer on how to run this streamlit app.
+* User to try a prediction by entering a sequence of token IDs on the streamlit website.  The ML model runs on this website, and it will provide a prediction of either normal or anomaly.  Jupyter Notebook 3 (anomaly_predict_joblib.ipynb) below will provide a pointer on how to run this streamlit app.
 
 #### Outline of project
 
-- Link to Jupyter Notebook 1: (Main notebook with Decision Tree, Logistic Regression, and comparison of all 3 models)
+- Link to Jupyter Notebook 1: (Capstone_Phase2.ipynb: Main notebook with Decision Tree, Logistic Regression, and comparison of all 3 models)
 [https://github.com/SanjayRRavi/Module24_Capstone_Phase2/blob/main/Capstone_Phase2.ipynb]
 
-- Link to Jupyter Notebook 2: (Secondary notebook with neural network model done in Google Colab)
+- Link to Jupyter Notebook 2: (Capstone_Phase2_NN.ipynb: Secondary notebook with neural network model done in Google Colab)
 [https://github.com/SanjayRRavi/Module24_Capstone_Phase2/blob/main/Capstone_Phase2_NN.ipynb]
   
 
-- Link to Jupyter Notebook 3: (Pointer on how to run the streamlit app)
+- Link to Jupyter Notebook 3: (anomaly_predict_joblib.ipynb: Pointer on how to run the streamlit app)
+[https://github.com/SanjayRRavi/Module24_Capstone_Phase2/blob/main/anomaly_predict_joblib.ipynb]
+
+- Python source code for streamlit app: (streamlit_app.py: Jupyter Notebook 3 above shows how to run this to open up the app browser)
+
 
 
 
